@@ -1,2 +1,2 @@
-# prompt-flix
+# Prompt Flix
 PromptFlix is an innovative AI-powered platform for scripts, images, and videos generation that transforms simple text prompts into engaging scripts and automatically generates videos based on those scripts. By leveraging cutting-edge AI models from Hugging Face, it streamlines the entire content creation process—making it accessible for storytellers, content creators, marketers, and filmmakers.
